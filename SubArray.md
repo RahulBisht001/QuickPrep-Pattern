@@ -7,3 +7,9 @@
       2. [Maximum Points obtained from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
       3. [Minimum Operations to reduce x to zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/)
       4. [maximum circular sum subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+
+   2. `Left to Right and Right to Left prefix and suffix computation based`
+      
+      (something from left till curr and something from right till curr Type Questions)
+      1. [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/description/)
+      2. [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/)
