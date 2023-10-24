@@ -24,3 +24,7 @@
     3. `Binary Search on Rotated Sorted Array`
        
        1. 
+
+
+    4. `Something different`
+       1. [Find single Element in O(Log N)](https://leetcode.com/problems/single-element-in-a-sorted-array/) `Bit Manipulation`
