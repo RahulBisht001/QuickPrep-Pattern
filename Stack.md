@@ -3,7 +3,7 @@
 `Patterns`
 
 
- **Note: Stack Implement using Array , Queue, two Queues type Questions are also important for getting a better understanding**
+ **Note: Stack Implement using Array, Queue, two Queues type Questions are also important for getting a better understanding**
 
    1. `Simple Classic Stack Operation Based`
 
@@ -13,4 +13,4 @@
 
        1. [Min Stack](https://leetcode.com/problems/min-stack/)
       
-   3. 
+   3. `Monotonic Stack Based Problems`
