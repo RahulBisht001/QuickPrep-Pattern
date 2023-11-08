@@ -10,5 +10,8 @@
   2. `Two Heaps Pattern`
  
   3. `Merge K sorted Pattern`
+      1. [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+      2. [Kth element in the sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+      3. [Find K pair with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
  
   4. `Minimum Number Pattern`
