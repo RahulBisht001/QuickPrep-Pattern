@@ -65,8 +65,9 @@ variable_window()
             end++;
         }
 
-        /* Case 3: Reduce the window size
-           If the window size is greater than the desired value (k), adjust the window by moving the start index
+        /** Case 3: Reduce the window size
+           If the window size is greater than the desired value (k), adjust the window by
+           moving the start index
         */
         else if (end - start + 1 > k)
         {
