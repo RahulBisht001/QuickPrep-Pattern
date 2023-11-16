@@ -55,8 +55,9 @@ variable_window()
             end++;
         }
 
-        /* Case 2: Window of desired size
-           If the window size is equal to the desired value (k), process the window and calculate the answer
+        /** Case 2: Window of desired size
+           If the window size is equal to the desired value (k), process the window and calculate
+           the answer
         */
         else if (end - start + 1 == k)
         {
