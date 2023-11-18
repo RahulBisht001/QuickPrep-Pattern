@@ -13,3 +13,9 @@
 5. `Node At Distance K Types`
     1. [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1)
     2. [All Nodes at K Distance](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
+
+6. `Simple Traversal Based (Recursive) Most common`
+    1. [Subtree with Maximum Average](https://leetcode.com/discuss/interview-question/349617) `Amazon OA`
+       
+       `Coding Ninja Version`   [Maximum Average Value Of A Subtree](https://tinyl.io/9mZH)
+    2. 
