@@ -19,3 +19,7 @@
        
        `Coding Ninja Version`   [Maximum Average Value Of A Subtree](https://tinyl.io/9mZH)
     2. 
+
+[Maximum Path Sum Between Two Leaves](https://tinyl.io/9mb8)
+
+[Maximum Path Sum between 2 Special Nodes](https://www.geeksforgeeks.org/problems/maximum-path-sum/0)
