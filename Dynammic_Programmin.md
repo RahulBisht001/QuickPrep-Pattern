@@ -11,6 +11,7 @@
        4. 
        5. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) `V V Imp`
        6. [Wildcard  Matching](https://leetcode.com/problems/wildcard-matching/description/) `V V Imp`
+       7. [Minimum Sum Partition](https://tinyl.io/9rJa) `IMP`  `Samsumng`
   
   *Note: These Two are Very Imp 👆🏻* 
 
@@ -18,3 +19,8 @@
       
    4. `DP on Grid`
    5. `DP on Stocks`
+   6. `Partition Dp`
+      1. [Matrix Chain Multiplication](https://tinyl.io/9rJZ)
+      2. [Palindrome Partition](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
+          `Check out All variations of it`
+      3. 
