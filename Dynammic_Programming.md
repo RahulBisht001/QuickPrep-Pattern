@@ -7,10 +7,15 @@
    1. `Knapsack Pattern-based Problems`
        1. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)
        2. [Partition Equal Subset Sum](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1)
-       3. [Count Subsets with Sum K](https://tinyl.io/9s4l)
-       4. [Minimum sum partition](https://tinyl.io/9s4m) `Hard`  `Samsung`
+       3.  [Minimum sum partition](https://tinyl.io/9s4m) `Hard`  `Samsung`
 
-   2. `Dp on Subsequence`
+       4.  [Count Subsets with Sum K](https://tinyl.io/9s5j)  `OR`  [Perfect sum Problem](https://tinyl.io/9s5h)
+ ```java
+"This is a Very Important Problem. This is explained in detail in the GFG Problems comment"
+```
+
+       
+   1. `Dp on Subsequence`
        1. [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) `Google`
        2. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
        3. [Print LCS](https://tinyl.io/9fOZ)
