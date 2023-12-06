@@ -36,4 +36,4 @@
       1. [Matrix Chain Multiplication](https://tinyl.io/9rJZ) `Nutanix`
       2. [Palindrome Partition](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
           `Check out All variations of it`
-      3. 
+      3. [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
