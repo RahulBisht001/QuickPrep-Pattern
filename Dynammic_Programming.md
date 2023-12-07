@@ -11,15 +11,19 @@
 
        4.  [Count Subsets with Sum K](https://tinyl.io/9s5j)  `OR`  [Perfect sum Problem](https://tinyl.io/9s5h)
  ```java
-"This is a Very Important Problem. This is explained in detail in the GFG Problems comment"
+"This Above 👆🏻 is a Very Important 🎯 Problem. This is explained in detail in the GFG Problems comment"
 ```
 
        
    1. `Dp on Subsequence`
+
+       1. `Longest Common Subsequence`
+           1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+           2. 
+
+
        1. [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) `Google`
-       2. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
        3. [Print LCS](https://tinyl.io/9fOZ)
-       4. 
        5. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) `V V Imp`
        6. [Wildcard  Matching](https://leetcode.com/problems/wildcard-matching/description/) `V V Imp`
        7. [Minimum Sum Partition](https://tinyl.io/9rJa) `IMP`    `Samsumng`
