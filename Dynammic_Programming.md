@@ -11,7 +11,7 @@
 
        4.  [Count Subsets with Sum K](https://tinyl.io/9s5j)  `OR`  [Perfect sum Problem](https://tinyl.io/9s5h)
  ```java
-"This Above 👆🏻 is a Very Important 🎯 Problem. This is explained in detail in the GFG Problems comment"
+"This Above 👆🏻 is a Very Important Problem. This is explained in detail in the GFG Problems comment"
 ```
 
        
