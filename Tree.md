@@ -7,8 +7,24 @@
 2. `Binary Tree Property Based`
 
 3. `Path Sum Pattern`
+    1. [Path Sum](https://leetcode.com/problems/path-sum/)  `Most IMP`
+    2. [Path sum 2](https://leetcode.com/problems/path-sum-ii/)
+    3. [Path Sum 3](https://leetcode.com/problems/path-sum-iii/)  `Most IMP`
+    4. [Step-By-Step Directions From a Binary Tree Node to Another](https://tinyl.io/7c4Q)   
+    5. [Distribute Coins in Binary Tree](https://tinyl.io/82rs)
 
 4. `Tree Construction Pattern`
+    1. [Construct Binary Tree from Preorder and Postorder Traversal](https://tinyl.io/83HH)
+    2. [Construct Binary Search Tree from Preorder Traversal](https://tinyl.io/83HI)
+    3. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+    4. [Largest BST](https://tinyl.io/70TS)
+    5. [Construct expression tree](https://practice.geeksforgeeks.org/problems/construct-an-expression-tree/1?page=3&difficulty[]=1&category[]=Tree&sortBy=submissions)
+    6. [Delete Nodes and Return Forest](https://tinyl.io/7hiY)
+    7. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
+    8. [Unique Binary Search Trees 2](https://tinyl.io/7z4f)
+    9. [Construct Binary Tree from Inorder and Postorder Traversal](https://tinyl.io/85fW)
+   10. [Create Binary Tree From Descriptions](https://tinyl.io/874Q)
+
 
 5. `Node At Distance K Types`
     1. [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1)
@@ -19,6 +35,13 @@
        
        `Coding Ninja Version`   [Maximum Average Value Of A Subtree](https://tinyl.io/9mZH)
     2. 
+
+ 7. `comparison Based Problems`
+     1. [Foldable Binary Tree](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1?page=2&difficulty[]=1&category[]=Tree&sortBy=submissions)
+    2. [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree1528/1?page=2&difficulty[]=1&category[]=Tree&sortBy=submissions)
+    3. [Binary Tree Upside Down](https://tinyl.io/7kWO) `Article`
+    4. [Binary Tree Duplicate Subtree](https://leetcode.com/problems/find-duplicate-subtrees/description/)
+
 
 [Maximum Path Sum Between Two Leaves](https://tinyl.io/9mb8)
 
