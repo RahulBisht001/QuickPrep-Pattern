@@ -3,18 +3,31 @@
   1. [Down to zero ii](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)  `hacker rank`
 
    `Patterns`
+   
+   ```java
+      There are Three types of Knapsacks
+      1. 0/1  Knapsack
+      2. Unbounded Knapsack
+      3. Fractional Knapsack
 
-   1. `--- Knapsack Pattern-based Problems ---`
-       1. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)
-       2. [Partition Equal Subset Sum](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1)
-       3. [Minimum sum partition](https://tinyl.io/9s4m) `Hard`  `Samsung`
-       4. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight-ii/description/) 
+      Fractional Knapsack is the Part of the Greedy algorithm.
+   ```
+   
+   1. `--- Knapsack Pattern-Based Problems ---`
+       1. `< 0/1 Knapsack Based Problem >`
+             1. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)
+             2. [Partition Equal Subset Sum](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1)
+             3. [Minimum sum partition](https://tinyl.io/9s4m) `Hard`  `Samsung`
+             4. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight-ii/description/) 
+      
+             5.  [Perfect sum Problem](https://tinyl.io/9s5h)
+      `This Above 👆🏻 is a Very Important Problem. This is explained in detail in the GFG Problems comment`
+      
+             6. 
 
-       5.  [Perfect sum Problem](https://tinyl.io/9s5h)
-`This Above 👆🏻 is a Very Important Problem. This is explained in detail in the GFG Problems comment`
-
-       6. 
-
+        2. `< Unbounded Knapsack >`
+             1. [Knapsack with Duplicate Item](https://tinyl.io/9toa) `Google` `Amazon`
+             2. [Unique Partitions](https://tinyl.io/9toc)
        
    2. `--- DP on Subsequence ---`
 
