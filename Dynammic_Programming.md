@@ -23,21 +23,23 @@
              5.  [Perfect sum Problem](https://tinyl.io/9s5h)
       `This Above 👆🏻 is a Very Important Problem. This is explained in detail in the GFG Problems comment`
       
-             6. 
+             6.  [House Robber](https://leetcode.com/problems/house-robber/)
 
         2. `< Unbounded Knapsack >`
              1. [Knapsack with Duplicate Item](https://tinyl.io/9toa) `Google` `Amazon`
              2. [Unique Partitions](https://tinyl.io/9toc)
+             3. [Rod cutting problem](https://tinyl.io/8f1n)
        
    2. `--- DP on Subsequence ---`
 
        1. `< Longest Common Subsequence >`
            1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
            2. [Print LCS](https://tinyl.io/9fOZ)
+           3. [Delete Operation for Two Strings](https://tinyl.io/7uxc)
 
 
-           3.  [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) `V V Imp`
-           4.  [Wildcard  Matching](https://leetcode.com/problems/wildcard-matching/description/) `V V Imp`
+           4.  [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) `V V Imp`
+           5.  [Wildcard  Matching](https://leetcode.com/problems/wildcard-matching/description/) `V V Imp`
 
       ` *Note: These Two are Very Imp 👆🏻* `
 
@@ -54,6 +56,7 @@
    ```
 
    4. `--- DP on SubStrings ---`
+      1. [Longest Common Substring](https://tinyl.io/7vCL)
 
    5. `--- Partition DP ---`
       1. [Matrix Chain Multiplication](https://tinyl.io/9rJZ) `Nutanix`
@@ -62,3 +65,14 @@
       3. [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
          
    6. `--- DP on Grid 2D DP ---`
+      1. [Unique Paths](https://tinyl.io/7wNf)
+      2. [Minimum path sum in the Triangle](https://tinyl.io/7wPv)
+      3. [Predict the Winner](https://tinyl.io/7ydN) ``` Not looks like gird but dp is 2d```
+
+
+
+
+2. [Unique Binary Search Trees](https://tinyl.io/7lJU)
+4. [Special Keyboard](https://tinyl.io/8w10) `geeksforgeeks`  `google`
+4. [Edit distance](https://tinyl.io/7xBe)
+5. [Count Sorted Vowel strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
