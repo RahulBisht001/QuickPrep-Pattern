@@ -46,13 +46,19 @@
            1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) `Using Binary Search` `V.V.Imp`
            2. [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) `Google`
 
+   3. `--- Kadane's Algorithm Based Problems---`
+   ```java
+   Kadane's Algo
 
-   3. `--- DP on SubStrings ---`
-      
-   4. `--- DP on Grid 2D DP ---`
+
+   ```
+
+   4. `--- DP on SubStrings ---`
 
    5. `--- Partition DP ---`
       1. [Matrix Chain Multiplication](https://tinyl.io/9rJZ) `Nutanix`
       2. [Palindrome Partition](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
           `Check out All variations of it`
       3. [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
+         
+   6. `--- DP on Grid 2D DP ---`
