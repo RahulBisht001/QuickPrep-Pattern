@@ -12,16 +12,25 @@
    2. [Permutation in a String](https://leetcode.com/problems/permutation-in-string/description/)
 
 
+1. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/)
+2. [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+3. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+4. [First negative integer in every window of size k](https://tinyl.io/7joJ)
+5. [Fruits into Baskets](https://tinyl.io/8yHm) `geeksforgeeks`
+
+### Hard
+1. [Sliding Window Maximum](https://tinyl.io/7jO9)
+
 ----
 1.  **Fixed Size Window**
 ```java
 fixed_window()
 {
-    int low = 0, high = 0, windowsize = k;
-    while (i < sizeofarray)
+    int low = 0, high = 0, window size = k;
+    while (i < size of array)
     {
         // Step 1: Create a window that is one element smaller than the desired window size
-        if (high - low + 1 < windowsize)
+        if (high - low + 1 < window size)
         {
             // Generate the window by increasing the high index
             high++;
