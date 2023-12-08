@@ -7,15 +7,16 @@
    1. `--- Knapsack Pattern-based Problems ---`
        1. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)
        2. [Partition Equal Subset Sum](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1)
-       3.  [Minimum sum partition](https://tinyl.io/9s4m) `Hard`  `Samsung`
+       3. [Minimum sum partition](https://tinyl.io/9s4m) `Hard`  `Samsung`
+       4. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight-ii/description/) 
 
-       4.  [Perfect sum Problem](https://tinyl.io/9s5h)
+       5.  [Perfect sum Problem](https://tinyl.io/9s5h)
 `This Above 👆🏻 is a Very Important Problem. This is explained in detail in the GFG Problems comment`
 
-       5. 
+       6. 
 
        
-   1. `--- Dp on Subsequence ---`
+   2. `--- DP on Subsequence ---`
 
        1. `< Longest Common Subsequence >`
            1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
@@ -29,15 +30,15 @@
 
 
        2. `< Longest Increasing Subsequence >`
-           1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+           1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) `Using Binary Search` `V.V.Imp`
            2. [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) `Google`
 
 
-   3. `Dp on SubStrings`
+   3. `--- DP on SubStrings ---`
       
-   4. `DP on Grid`
+   4. `--- DP on Grid 2D DP ---`
 
-   5. `Partition Dp`
+   5. `--- Partition DP ---`
       1. [Matrix Chain Multiplication](https://tinyl.io/9rJZ) `Nutanix`
       2. [Palindrome Partition](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
           `Check out All variations of it`
