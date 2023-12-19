@@ -7,6 +7,7 @@
 2. variable length window size
    1. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
    2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+   3. [Maximum Fruit into Basket](https://leetcode.com/problems/fruit-into-baskets/description/)
 
 ### Questions :
    1. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
