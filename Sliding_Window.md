@@ -6,6 +6,7 @@
 1. Fixed Size window length
 2. variable length window size
    1. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+   2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 
 ### Questions :
    1. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
