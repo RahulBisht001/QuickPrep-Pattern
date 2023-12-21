@@ -10,6 +10,10 @@
    1. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
    2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
    3. [Maximum Fruit into Basket](https://leetcode.com/problems/fruit-into-baskets/description/)
+   4. [Subarrays With ‘K’ Distinct Values](https://tinyl.io/9yZb): `Important Pattern : Coding Ninja`  `Google` `De Shaw` `Goldman Sachs`
+   5.
+
+--
   
 `Something Different`
 1. [Number of Substrings containing all three characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
