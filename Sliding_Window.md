@@ -4,10 +4,15 @@
 `Patterns`
 
 1. Fixed Size window length
+   1. [Substring of size 3 with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/)
+   2. 
 2. variable length window size
    1. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
    2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
    3. [Maximum Fruit into Basket](https://leetcode.com/problems/fruit-into-baskets/description/)
+  
+`Something Different`
+1. [Number of Substrings containing all three characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 
 ### Questions :
    1. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
