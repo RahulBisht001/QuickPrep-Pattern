@@ -1,4 +1,5 @@
 ## Questions 
 
 
-1. [Partition Array such that maximum diff is k](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/)
+1. [Partition Array such that maximum diff is k](https://tinyl.io/A0BH)
+2. [Minimum Time to Make Rope Colorful](https://tinyl.io/A0BG)
