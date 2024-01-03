@@ -7,6 +7,8 @@
        3. [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
        4. [Top K Frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
+[Internship Experience](https://tinyl.io/A2Kv) `Quite Different Ques : Custom Comparator`
+
   2. `Two Heaps Pattern`
  
   3. `Merge K sorted Pattern`
