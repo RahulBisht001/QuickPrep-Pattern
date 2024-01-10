@@ -13,6 +13,8 @@
       (something from left till curr and something from right till curr Type Questions)
       1. [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/description/)
       2. [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/)
+  3. `SubArray with Hashing (HashMap or HashSet)`
+     1. [Longest subarray with sum divisible by K](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1)
 
 3. `Different pattern`
     1. [Subarrays With ‘K’ Distinct Values](https://tinyl.io/9yZb): `Important Pattern: Coding Ninja`  `Google` `De Shaw` `Goldman Sachs`
