@@ -42,6 +42,8 @@
     3. [Binary Tree Upside Down](https://tinyl.io/7kWO) `Article`
     4. [Binary Tree Duplicate Subtree](https://leetcode.com/problems/find-duplicate-subtrees/description/)
 
+ 8. `LCA based Question`
+     1. [Minimum Distance Between Two Given Nodes in a Binary Tree](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)
 
 [Maximum Path Sum Between Two Leaves](https://tinyl.io/9mb8)
 
