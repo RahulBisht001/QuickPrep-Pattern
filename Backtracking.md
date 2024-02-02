@@ -5,3 +5,4 @@
 2. [Word Search](https://leetcode.com/problems/word-search/)
 
 1. [Rat in a maze](https://tinyl.io/ACeY)
+2. [Factor Combinations ](https://tinyl.io/ADSw)
