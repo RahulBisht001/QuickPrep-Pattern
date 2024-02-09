@@ -1,4 +1,55 @@
-## Questions
+## Backtracking
+
+`Identification`
+
+1. Generate/get All (substring, ways etc)
+2. Look at constraints [ generally the backtracking constraints are very low ]
+3. In Genral when old decision / changes may affect my current result . its possible backtracking ques.
+
+`Standard template for almost all backtracking ques`
+
+```java
+
+class Solution {
+    ArrayList<String> res = new ArrayList<>();
+    public ArrayList<String> findPath(int[][] m, int n) {
+
+        // initial Base conditions
+
+        // In some case Visited array may needed
+
+        boolean[][] visited = new boolean[n][n];
+        backtrack(m, n, 0, 0, "", visited);
+
+        // Post processing [ such as sorting , unique etc ]
+        return res;
+    }
+
+    public void backtrack(int[][] m, int n, int r, int c, String temp, boolean[][] visited) {
+
+        // Base condition
+
+        // Adding all ways [ Demand of Ques]
+
+        // Add ways in the path
+        visited[r][c] = true;
+
+        // i depend on ques to ques. [ How to perform operations ]
+        for (i = idx || 0) {
+            
+            // Internal conditions check
+        }
+
+        // revert the changes
+
+        visited[r][c] = false;
+    }
+
+}
+```
+
+
+`Questions`
 
 1. [Kinght Dialer](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27)
 1. [Permutaions](https://leetcode.com/problems/permutations/description/)
@@ -7,4 +58,5 @@
 4. [Word Search 3](https://leetcode.com/problems/word-search-ii/)
 5. [Rat in a maze](https://tinyl.io/ACeY)
 6. [Factor Combinations ](https://tinyl.io/ADSw)
-7. [Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/description/)
+7. [Soduku Solver](https://leetcode.com/problems/sudoku-solver/description/)
+8. [Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/description/)
