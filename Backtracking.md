@@ -7,3 +7,4 @@
 4. [Word Search 3](https://leetcode.com/problems/word-search-ii/)
 5. [Rat in a maze](https://tinyl.io/ACeY)
 6. [Factor Combinations ](https://tinyl.io/ADSw)
+7. [Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/description/)
