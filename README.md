@@ -1,4 +1,4 @@
 ## Topic Wise Prep
 
 
-* Pattern Based Problem Solving.
+* Pattern Based Problem Solving
