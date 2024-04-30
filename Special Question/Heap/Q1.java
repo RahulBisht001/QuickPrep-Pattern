@@ -1,4 +1,3 @@
-package PriorityQueue;
 /*
  * Geek wants to create a string from the characters of string str
  * of size n but he wants to make sure that no character appears more than k
@@ -19,6 +18,7 @@ package PriorityQueue;
  */
 
 //? Source : Geeksforgeeks weekly contest 145 medium problem
+package Heap;
 
 import java.util.HashMap;
 import java.util.PriorityQueue;
