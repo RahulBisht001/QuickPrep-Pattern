@@ -18,7 +18,6 @@
  */
 
 //? Source : Geeksforgeeks weekly contest 145 medium problem
-package Heap;
 
 import java.util.HashMap;
 import java.util.PriorityQueue;

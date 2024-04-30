@@ -1,4 +1,3 @@
-package Heap;
 
 /**
  * Q2
