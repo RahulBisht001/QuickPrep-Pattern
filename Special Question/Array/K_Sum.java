@@ -10,8 +10,8 @@ import java.util.*;
 
 public class K_Sum {
     public static void main(String[] args) {
-        int[] A = { 10, 10, 20, 30, 40, 50, 60 };
-        int target = 100;
+        int[] A = { -2, 0, 0, 2, 2 };
+        int target = 0;
 
         Solution s = new Solution();
         List<List<Integer>> results = s.kSum(A, target, 3); // Example for 3-Sum
@@ -33,7 +33,6 @@ class Solution {
     }
 
     private List<List<Integer>> kSumHelper(int[] A, int start, int target, int k) {
-
         List<List<Integer>> res = new ArrayList<>();
 
         if (k == 2) {
@@ -44,42 +43,38 @@ class Solution {
                 int sum = A[left] + A[right];
 
                 if (sum == target) {
-                    List<Integer> pair = new ArrayList<>();
-                    pair.add(A[left]);
-                    pair.add(A[right]);
+                    // Create a mutable list from the array
+                    res.add(new ArrayList<>(Arrays.asList(A[left], A[right])));
 
-                    res.add(pair);
-
-                    // // Skip duplicates
-                    // while (left < right && A[left] == A[left + 1])
-                    // left++;
-                    // while (left < right && A[right] == A[right - 1])
-                    // right--;
+                    // Skip duplicates
+                    while (left < right && A[left] == A[left + 1])
+                        left++;
+                    while (left < right && A[right] == A[right - 1])
+                        right--;
 
                     left++;
                     right--;
                 } else if (sum < target) {
-                    while (left < right && A[left] == A[++left])
-                        ;
+                    left++;
                 } else {
-                    while (left < right && A[right] == A[--right])
-                        ;
+                    right--;
                 }
             }
+        } else {
+            // Recursive case: reduce k-Sum to (k-1)-Sum
+            for (int i = start; i < A.length - k + 1; i++) {
+                // Avoid duplicates
+                if (i > start && A[i] == A[i - 1])
+                    continue;
 
-            return res;
-        }
-        // Recursive case: reduce k-Sum to (k-1)-Sum
-        for (int i = start; i < A.length - k + 1; i++) {
-            // Avoid duplicates
-            if (i > start && A[i] == A[i - 1])
-                continue;
+                List<List<Integer>> temp = kSumHelper(A, i + 1, target - A[i], k - 1);
 
-            List<List<Integer>> temp = kSumHelper(A, i + 1, target - A[i], k - 1);
-
-            for (List<Integer> t : temp) {
-                t.add(0, A[i]); // Prepend the current element
-                res.add(t);
+                for (List<Integer> t : temp) {
+                    // Prepend the current element to the mutable list
+                    List<Integer> current = new ArrayList<>(t);
+                    current.add(0, A[i]);
+                    res.add(current);
+                }
             }
         }
 
