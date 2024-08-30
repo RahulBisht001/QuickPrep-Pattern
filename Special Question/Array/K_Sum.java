@@ -60,21 +60,22 @@ class Solution {
                     right--;
                 }
             }
-        } else {
-            // Recursive case: reduce k-Sum to (k-1)-Sum
-            for (int i = start; i < A.length - k + 1; i++) {
-                // Avoid duplicates
-                if (i > start && A[i] == A[i - 1])
-                    continue;
 
-                List<List<Integer>> temp = kSumHelper(A, i + 1, target - A[i], k - 1);
+            return res;
+        }
+        // Recursive case: reduce k-Sum to (k-1)-Sum
+        for (int i = start; i < A.length - k + 1; i++) {
+            // Avoid duplicates
+            if (i > start && A[i] == A[i - 1])
+                continue;
 
-                for (List<Integer> t : temp) {
-                    // Prepend the current element to the mutable list
-                    List<Integer> current = new ArrayList<>(t);
-                    current.add(0, A[i]);
-                    res.add(current);
-                }
+            List<List<Integer>> temp = kSumHelper(A, i + 1, target - A[i], k - 1);
+
+            for (List<Integer> t : temp) {
+                // Prepend the current element to the mutable list
+                List<Integer> current = new ArrayList<>(t);
+                current.add(0, A[i]);
+                res.add(current);
             }
         }
 
