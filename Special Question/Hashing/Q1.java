@@ -9,7 +9,7 @@
 
 import java.util.HashMap;
 
-class Solution {
+class Solution2 {
     public long countPairs(int[] nums, int k) {
 
         long cnt = 0;
