@@ -12,3 +12,4 @@
 
   6. [Print Strobogrammatic Numbers](https://www.naukri.com/code360/problems/print-strobogrammatic-numbers-of-length-n_1466957) `Google`
   7. [Maximum xor of two numbers in an array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/) `Microsoft` `Most IMP` `Trie` `Bitwise`
+  8. [Shortest subarray with sum at least k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) `Heap` `Sliding Window` `Binary Search`
